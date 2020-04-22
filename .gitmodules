@@ -1,0 +1,6 @@
+[submodule "teacher-front-end"]
+	path = teacher-front-end
+	url = https://github.com/KhaldarovTalant/teacher-front-end.git
+[submodule "talant-project"]
+	path = talant-project
+	url = https://github.com/KhaldarovTalant/talant-project.git
